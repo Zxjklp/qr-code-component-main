@@ -36,7 +36,7 @@ main {
 main img {
   border-radius: 10px;
 }
-main h2 {
+main h1 {
   color: var(--Slate-900);
   font-size: 1.375rem;
   line-height: 1.2;
