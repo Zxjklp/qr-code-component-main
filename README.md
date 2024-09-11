@@ -24,5 +24,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - **HTML5** - For the structure and content of the webpage.
 - **CSS3** - For styling and layout, including custom properties (CSS variables) and responsive design techniques.
 - **Google Fonts** - For custom typography.
-- **CSS Grid** - For centering the content vertically and horizontally.
+- **Flexbox** - For centering the content vertically and horizontally.
 - **Frontend Mentor** - For the project design and challenge.
